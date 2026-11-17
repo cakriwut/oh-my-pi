@@ -1,0 +1,15 @@
+{
+	"name": "omp-durable-example",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"start": "bun run.ts",
+		"test": "node --test task.test.ts"
+	},
+	"dependencies": {
+		"@earendil-works/chord": "1.5.2",
+		"@earendil-works/pi-ai": "1.5.2",
+		"@earendil-works/pi-durable": "1.5.2",
+		"@oh-my-pi/pi-coding-agent": "18.22.0"
+	}
+}

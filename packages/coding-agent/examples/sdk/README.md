@@ -2,6 +2,9 @@
 
 Programmatic usage of omp-coding-agent via `createAgentSession()`.
 
+For a full OMP session inside a persistent pi-durable task, see the standalone
+[durable example](../durable/README.md), including interruption and explicit recovery.
+
 ## Examples
 
 | File                       | Description                                    |
